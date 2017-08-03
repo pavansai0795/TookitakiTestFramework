@@ -1,0 +1,278 @@
+# Created on 2017-06-28T19:53:18.918
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+# Created on 2017-06-28T19:53:21.261
+Unexpected IOException with stream: [
+
+# Created on 2017-06-28T19:53:21.262
+Unexpected IOException with stream: 1
+
+# Created on 2017-06-28T19:53:21.262
+Unexpected IOException with stream: 0
+
+# Created on 2017-06-28T19:53:21.263
+Unexpected IOException with stream: 1
+
+# Created on 2017-06-28T19:53:21.263
+Unexpected IOException with stream: .
+
+# Created on 2017-06-28T19:53:21.263
+Unexpected IOException with stream: 0
+
+# Created on 2017-06-28T19:53:21.267
+Unexpected IOException with stream: 7
+
+# Created on 2017-06-28T19:53:21.268
+Unexpected IOException with stream: 1
+
+# Created on 2017-06-28T19:53:21.268
+Unexpected IOException with stream: ]
+
+# Created on 2017-06-28T19:53:21.269
+Unexpected IOException with stream: [
+
+# Created on 2017-06-28T19:53:21.269
+Unexpected IOException with stream: S
+
+# Created on 2017-06-28T19:53:21.269
+Unexpected IOException with stream: E
+
+# Created on 2017-06-28T19:53:21.270
+Unexpected IOException with stream: V
+
+# Created on 2017-06-28T19:53:21.270
+Unexpected IOException with stream: E
+
+# Created on 2017-06-28T19:53:21.273
+Unexpected IOException with stream: R
+
+# Created on 2017-06-28T19:53:21.274
+Unexpected IOException with stream: E
+
+# Created on 2017-06-28T19:53:21.274
+Unexpected IOException with stream: ]
+
+# Created on 2017-06-28T19:53:21.275
+Unexpected IOException with stream: :
+
+# Created on 2017-06-28T19:53:21.275
+Unexpected IOException with stream:  
+
+# Created on 2017-06-28T19:53:21.275
+Unexpected IOException with stream: U
+
+# Created on 2017-06-28T19:53:21.276
+Unexpected IOException with stream: n
+
+# Created on 2017-06-28T19:53:21.276
+Unexpected IOException with stream: a
+
+# Created on 2017-06-28T19:53:21.276
+Unexpected IOException with stream: b
+
+# Created on 2017-06-28T19:53:21.277
+Unexpected IOException with stream: l
+
+# Created on 2017-06-28T19:53:21.277
+Unexpected IOException with stream: e
+
+# Created on 2017-06-28T19:53:21.278
+Unexpected IOException with stream:  
+
+# Created on 2017-06-28T19:53:21.279
+Unexpected IOException with stream: t
+
+# Created on 2017-06-28T19:53:21.280
+Unexpected IOException with stream: o
+
+# Created on 2017-06-28T19:53:21.280
+Unexpected IOException with stream:  
+
+# Created on 2017-06-28T19:53:21.281
+Unexpected IOException with stream: r
+
+# Created on 2017-06-28T19:53:21.281
+Unexpected IOException with stream: e
+
+# Created on 2017-06-28T19:53:21.281
+Unexpected IOException with stream: c
+
+# Created on 2017-06-28T19:53:21.281
+Unexpected IOException with stream: e
+
+# Created on 2017-06-28T19:53:21.282
+Unexpected IOException with stream: i
+
+# Created on 2017-06-28T19:53:21.282
+Unexpected IOException with stream: v
+
+# Created on 2017-06-28T19:53:21.282
+Unexpected IOException with stream: e
+
+# Created on 2017-06-28T19:53:21.283
+Unexpected IOException with stream:  
+
+# Created on 2017-06-28T19:53:21.283
+Unexpected IOException with stream: m
+
+# Created on 2017-06-28T19:53:21.283
+Unexpected IOException with stream: e
+
+# Created on 2017-06-28T19:53:21.284
+Unexpected IOException with stream: s
+
+# Created on 2017-06-28T19:53:21.287
+Unexpected IOException with stream: s
+
+# Created on 2017-06-28T19:53:21.288
+Unexpected IOException with stream: a
+
+# Created on 2017-06-28T19:53:21.289
+Unexpected IOException with stream: g
+
+# Created on 2017-06-28T19:53:21.290
+Unexpected IOException with stream: e
+
+# Created on 2017-06-28T19:53:21.290
+Unexpected IOException with stream:  
+
+# Created on 2017-06-28T19:53:21.291
+Unexpected IOException with stream: f
+
+# Created on 2017-06-28T19:53:21.291
+Unexpected IOException with stream: r
+
+# Created on 2017-06-28T19:53:21.292
+Unexpected IOException with stream: o
+
+# Created on 2017-06-28T19:53:21.292
+Unexpected IOException with stream: m
+
+# Created on 2017-06-28T19:53:21.293
+Unexpected IOException with stream:  
+
+# Created on 2017-06-28T19:53:21.293
+Unexpected IOException with stream: r
+
+# Created on 2017-06-28T19:53:21.294
+Unexpected IOException with stream: e
+
+# Created on 2017-06-28T19:53:21.294
+Unexpected IOException with stream: n
+
+# Created on 2017-06-28T19:53:21.295
+Unexpected IOException with stream: d
+
+# Created on 2017-06-28T19:53:21.295
+Unexpected IOException with stream: e
+
+# Created on 2017-06-28T19:53:21.296
+Unexpected IOException with stream: r
+
+# Created on 2017-06-28T19:53:21.296
+Unexpected IOException with stream: e
+
+# Created on 2017-06-28T19:53:21.297
+Unexpected IOException with stream: r
+
+# Created on 2017-06-28T19:53:21.298
+Unexpected IOException with stream: 
+
+# Created on 2017-06-28T19:53:21.298
+Unexpected IOException with stream: 
+
+
+# Created on 2017-06-28T19:53:21.372
+Unexpected IOException: 8,1,commonMethods.Testcases,adminSearchAllCampaign(commonMethods.Testcases),null,null,null,null,Testcases.adminSearchAllCampaign:193->Keywords.waitForElement:650,java.lang.AssertionError\000A\0009at commonMethods.Testcases.adminSearchAllCampaign(Testcases.java:193)\000A
+
+
+# Created on 2017-06-28T19:53:21.373
+Unexpected IOException with stream: D:\\connaizen\\TDD\\Reports\\POC 28-06-2017 19-51-38/Screenshot/adminSearchAllCampaign.png
+
+
+# Created on 2017-06-28T19:53:21.378
+Unexpected IOException with stream: Exception while taking Screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=61.0.3141.8)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2 milliseconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'VivekaPC', ip: '192.168.168.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\welcome\AppData\Local\Temp\scoped_dir5396_25597}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3141.8, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 224f637e96c3a118d732177a9ac80698
+
+
+# Created on 2017-06-28T19:53:21.379
+Unexpected IOException with stream: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=61.0.3141.8)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2 milliseconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'VivekaPC', ip: '192.168.168.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\welcome\AppData\Local\Temp\scoped_dir5396_25597}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3141.8, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 224f637e96c3a118d732177a9ac80698
+
+
+# Created on 2017-06-28T19:53:21.380
+Unexpected IOException: 5,1,commonMethods.Testcases,adminApproveAndRejectAllPendingCampaign(commonMethods.Testcases),commonMethods.Testcases,null,null
+
+
+# Created on 2017-06-28T19:53:21.392
+Unexpected IOException: 8,1,commonMethods.Testcases,adminApproveAndRejectAllPendingCampaign(commonMethods.Testcases),null,null,null,null,Testcases.adminApproveAndRejectAllPendingCampaign:197->Keywords.refreshPage:802,java.lang.AssertionError\000A\0009at commonMethods.Testcases.adminApproveAndRejectAllPendingCampaign(Testcases.java:197)\000A
+
+
+# Created on 2017-06-28T19:53:21.393
+Unexpected IOException with stream: D:\\connaizen\\TDD\\Reports\\POC 28-06-2017 19-51-38/Screenshot/adminApproveAndRejectAllPendingCampaign.png
+
+
+# Created on 2017-06-28T19:53:21.397
+Unexpected IOException with stream: Exception while taking Screenshotno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=61.0.3141.8)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2 milliseconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'VivekaPC', ip: '192.168.168.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\welcome\AppData\Local\Temp\scoped_dir5396_25597}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3141.8, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 224f637e96c3a118d732177a9ac80698
+
+
+# Created on 2017-06-28T19:53:21.398
+Unexpected IOException with stream: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=61.0.3141.8)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2 milliseconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'VivekaPC', ip: '192.168.168.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\welcome\AppData\Local\Temp\scoped_dir5396_25597}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3141.8, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 224f637e96c3a118d732177a9ac80698
+
+
+# Created on 2017-06-28T19:53:23.405
+Unexpected IOException with stream: Browser not closedorg.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=61.0.3141.8)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.00 seconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'VivekaPC', ip: '192.168.168.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\welcome\AppData\Local\Temp\scoped_dir5396_25597}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3141.8, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 224f637e96c3a118d732177a9ac80698
+
+
+# Created on 2017-06-28T19:53:25.974
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

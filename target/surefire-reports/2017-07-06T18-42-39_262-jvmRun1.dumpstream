@@ -1,0 +1,57 @@
+# Created on 2017-07-06T18:43:15.515
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+# Created on 2017-07-06T18:43:18.384
+Unexpected IOException: 8,1,commonMethods.Testcases,getInTouch(commonMethods.Testcases),null,chrome not reachable\000A  (Session info: chrome=61.0.3141.8)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.01 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'VivekaPC'\002C ip: '192.168.168.35'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_111'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005Cwelcome\005CAppData\005CLocal\005CTemp\005Cscoped_dir2084_14190}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=61.0.3141.8\002C platform=XP\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 033a433654b3bf253d67887747c2725e\000A*** Element info: {Using=xpath\002C value=//input[@name='organization']},null,chrome not reachable\000A  (Session info: chrome=61.0.3141.8)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.01 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'VivekaPC'\002C ip: '192.168.168.35'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_111'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005Cwelcome\005CAppData\005CLocal\005CTemp\005Cscoped_dir2084_14190}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=61.0.3141.8\002C platform=XP\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 033a433654b3bf253d67887747c2725e\000A*** Element info: {Using=xpath\002C value=//input[@name='organization']},Testcases.getInTouch:149->Keywords.clearAndType:213 \00BB WebDriver chrome not rea...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=61.0.3141.8)\000A  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002Cplatform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 4.01 seconds\000ABuild info: version: '3.0.1'\002C revision: '1969d75'\002C time: '2016-10-18 09:49:13 -0700'\000ASystem info: host: 'VivekaPC'\002C ip: '192.168.168.35'\002C os.name: 'Windows 7'\002C os.arch: 'amd64'\002C os.version: '6.1'\002C java.version: '1.8.0_111'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{applicationCacheEnabled=false\002C rotatable=false\002C mobileEmulationEnabled=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233)\002C userDataDir=C:\005CUsers\005Cwelcome\005CAppData\005CLocal\005CTemp\005Cscoped_dir2084_14190}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C databaseEnabled=false\002C handlesAlerts=true\002C hasTouchScreen=false\002C version=61.0.3141.8\002C platform=XP\002C browserConnectionEnabled=false\002C nativeEvents=true\002C acceptSslCerts=true\002C locationContextEnabled=true\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C cssSelectorsEnabled=true\002C unexpectedAlertBehaviour=}]\000ASession ID: 033a433654b3bf253d67887747c2725e\000A*** Element info: {Using=xpath\002C value=//input[@name='organization']}\000A\0009at commonMethods.Testcases.getInTouch(Testcases.java:149)\000A
+
+
+# Created on 2017-07-06T18:43:18.388
+Unexpected IOException with stream: D:\\connaizen\\TDD\\Reports\\POC 06-07-2017 18-42-42/Screenshot/getInTouch.png
+
+
+# Created on 2017-07-06T18:43:22.411
+Unexpected IOException with stream: Exception while taking Screenshotchrome not reachable
+  (Session info: chrome=61.0.3141.8)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.02 seconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'VivekaPC', ip: '192.168.168.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\welcome\AppData\Local\Temp\scoped_dir2084_14190}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3141.8, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 033a433654b3bf253d67887747c2725e
+
+
+# Created on 2017-07-06T18:43:22.413
+Unexpected IOException with stream: chrome not reachable
+  (Session info: chrome=61.0.3141.8)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.02 seconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'VivekaPC', ip: '192.168.168.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\welcome\AppData\Local\Temp\scoped_dir2084_14190}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3141.8, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 033a433654b3bf253d67887747c2725e
+
+
+# Created on 2017-07-06T18:43:22.649
+Unexpected IOException with stream: Browser not closedorg.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=61.0.3141.8)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 226 milliseconds
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'VivekaPC', ip: '192.168.168.35', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\welcome\AppData\Local\Temp\scoped_dir2084_14190}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=61.0.3141.8, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 033a433654b3bf253d67887747c2725e
+
+
+# Created on 2017-07-06T18:43:28.926
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+
